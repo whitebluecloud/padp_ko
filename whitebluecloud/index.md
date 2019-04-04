@@ -6,7 +6,7 @@ Problem Solving with Algorithms and Data Structures using Python
 * 1 .  소개
     * 1.1. [목표](objectives.md)
     * 1.2. [시작하기](getting_start.md)
-    * 1.3. 컴퓨터과학이란
+    * 1.3. [컴퓨터과학이란](computer_science.md)
     * 1.4. 프로그래밍이란
     * 1.5. 데이터 구조와 추상화 데이터타입을 학습해야하는 이유
     * 1.6. 알고리즘을 학습해야하는 이유
