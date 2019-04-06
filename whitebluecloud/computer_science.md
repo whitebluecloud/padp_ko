@@ -4,10 +4,10 @@
 컴퓨터과학은 종종 정의하기 어렵다.  
 Computer science is often difficult to define. 
 
-이것은 불행히 '컴퓨터'란 단어의 때문일 수 있다.  
+이것은 불행히 '컴퓨터'란 단어 때문일 수 있다.  
 This is probably due to the unfortunate use of the word “computer” in the name. 
 
-당신이 인식하는 것처럼, 컴퓨터과학은 단순히 컴퓨터를 공부하는 것이 아니다. 비록 컴퓨터가 원리에 있어서 중요한 도움 역할을 할지라도, 그것은 단지 도구일 뿐이다.   
+당신도 알다시피, 컴퓨터과학은 단순히 컴퓨터를 공부하는 것이 아니다. 비록 컴퓨터가 원리에 있어서 중요한 도움 역할을 할지라도, 그것은 단지 도구일 뿐이다.   
 As you are perhaps aware, computer science is not simply the study of computers. Although computers play an important supporting role as a tool in the discipline, they are just that–tools.
 
 컴퓨터과학은 문제, 문제해결, 문제해결과정을 통해 도출된 해결책을 공부하는 것이다.  
@@ -16,7 +16,7 @@ Computer science is the study of problems, problem-solving, and the solutions th
 주어진 문제, 컴퓨터과학자의 목표는 알고리즘을 개발하는 것이다. 차례차례 명령들의 리스트를. 문제들의 instance를 해결하기 위한 명령들의 리스트를 차례차례....????? 모르겠음.   
 Given a problem, a computer scientist’s goal is to develop an algorithm, a step-by-step list of instructions for solving any instance of the problem that might arise. 
 
-알고리즘은 유한한 프로세스다. 만약 따라온다면 ..?? 문제를 해결할 것이다.알고리즘은 해결책이다.  
+알고리즘은 유한한 프로세스다. 만약 따라온다면 ..?? 문제를 해결할 것이다. 알고리즘은 해결책이다.  
 Algorithms are finite processes that if followed will solve the problem. Algorithms are solutions.
 
 컴퓨터과학은 알고리즘을 공부하는 것이라고 생각될 수 있다. 그러나, 우리는 조심해야만한다. 몇몇문제들은 해결책이 아닐 수도 있다는 것을.  

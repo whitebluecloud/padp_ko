@@ -7,10 +7,10 @@ Problem Solving with Algorithms and Data Structures using Python
     * 1.1. [목표](objectives.md)
     * 1.2. [시작하기](getting_start.md)
     * 1.3. [컴퓨터과학이란](computer_science.md)
-    * 1.4. 프로그래밍이란
-    * 1.5. 데이터 구조와 추상화 데이터타입을 학습해야하는 이유
-    * 1.6. 알고리즘을 학습해야하는 이유
-    * 1.7. 파이썬 기본
+    * 1.4. [프로그래밍이란](programming.ipynb)
+    * 1.5. [데이터 구조와 추상화 데이터타입을 학습해야하는 이유](data_srtucture_abstraction.ipynb)
+    * 1.6. [알고리즘을 학습해야하는 이유](reason_to_study_algorithm.ipynb)
+    * 1.7. [파이썬 기본](basic_python.ipynb)
     * 1.8. 데이터를 활용해 시작하기
         * 1.8.1. 기본형 데이터 타입
         * 1.8.2. 컬렉션 데이터 타입
