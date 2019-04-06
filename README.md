@@ -7,7 +7,7 @@ http://interactivepython.org/courselib/static/pythonds/index.html
 * Ⅰ. Introduction  
   * 1.8. [Getting Started With Data](http://interactivepython.org/courselib/static/pythonds/Introduction/GettingStartedwithData.html)
     * 1.8.1. [Built-in Atomic Data Types](http://interactivepython.org/courselib/static/pythonds/Introduction/GettingStartedwithData.html#built-in-atomic-data-types)
-    * 1.8.2. [Built-in Collection Data Types] (http://interactivepython.org/courselib/static/pythonds/Introduction/GettingStartedwithData.html#built-in-collection-data-types)
+    * 1.8.2. [Built-in Collection Data Types](http://interactivepython.org/courselib/static/pythonds/Introduction/GettingStartedwithData.html#built-in-collection-data-types)
 ### - 과제 완료 현황
  
 |  | <center>김훈</center> | <center>전보솔</center> | <center>김성철</center> | <center>정종선</center> | <center>조원현</center> |
