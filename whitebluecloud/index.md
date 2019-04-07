@@ -11,8 +11,8 @@ Problem Solving with Algorithms and Data Structures using Python
     * 1.5. [데이터 구조와 추상화 데이터타입을 학습해야하는 이유](data_srtucture_abstraction.ipynb)
     * 1.6. [알고리즘을 학습해야하는 이유](reason_to_study_algorithm.ipynb)
     * 1.7. [파이썬 기본](basic_python.ipynb)
-    * 1.8. 데이터를 활용해 시작하기
-        * 1.8.1. 기본형 데이터 타입
+    * 1.8. [데이터를 활용해 시작하기](start_with_data.ipynb)
+        * 1.8.1. [기본형 데이터 타입](atomic_data_type.ipynb)
         * 1.8.2. 컬렉션 데이터 타입
     * 1.9. 입력과 출력
         * 1.9.1. 문자열 포매팅
