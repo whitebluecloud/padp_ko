@@ -1,5 +1,5 @@
 # 원문
-##1.6. Why Study Algorithms?
+## 1.6. Why Study Algorithms?
 * Computer scientists learn by experience. We learn by seeing others solve problems and by solving problems by ourselves. Being exposed to different problem-solving techniques and seeing how different algorithms are designed helps us to take on the next challenging problem that we are given. By considering a number of different algorithms, we can begin to develop pattern recognition so that the next time a similar problem arises, we are better able to solve it.
 
 * Algorithms are often quite different from one another. Consider the example of sqrt seen earlier. It is entirely possible that there are many different ways to implement the details to compute the square root function. One algorithm may use many fewer resources than another. One algorithm might take 10 times as long to return the result as the other. We would like to have some way to compare these two solutions. Even though they both work, one is perhaps “better” than the other. We might suggest that one is more efficient or that one simply works faster or uses less memory. As we study algorithms, we can learn analysis techniques that allow us to compare and contrast solutions based solely on their own characteristics, not the characteristics of the program or computer used to implement them.
@@ -9,7 +9,7 @@
 * There will often be trade-offs that we will need to identify and decide upon. As computer scientists, in addition to our ability to solve problems, we will also need to know and understand solution evaluation techniques. In the end, there are often many ways to solve a problem. Finding a solution and then deciding whether it is a good one are tasks that we will do over and over again.
 
 # 번역
-##1.6. 왜 우리는 알고리즘을 공부 하나?
+## 1.6. 왜 우리는 알고리즘을 공부 하나?
 * 컴퓨터 과학자 들은 경험을 통해 배운다.  
 우리는 다른 사람이 문제를 푸는것을 보거나 스스로 문제를 풀며 배운다.  
 서로 다른 문제 해결 테크닉을 보는것과, 다른 알고리즘들이 어떻게 주어진 문제 해결에 도움이 되도록 만들어졌는지 볼 수 있다.  

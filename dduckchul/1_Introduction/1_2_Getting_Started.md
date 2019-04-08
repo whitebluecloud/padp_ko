@@ -1,5 +1,5 @@
 # 원문
-##1.2. Getting Started
+## 1.2. Getting Started
 * The way we think about programming has undergone many changes in the years since the first electronic computers required patch cables and switches to convey instructions from human to machine.  
 As is the case with many aspects of society, changes in computing technology provide computer scientists with a growing number of tools and platforms on which to practice their craft.  
 Advances such as faster processors, high-speed networks, and large memory capacities have created a spiral of complexity through which computer scientists must navigate.  
@@ -13,7 +13,7 @@ First, it reviews the framework within which computer science and the study of a
 Second, we review the Python programming language. Although we cannot provide a detailed, exhaustive reference, we will give examples and explanations for the basic constructs and ideas that will occur throughout the remaining chapters.
 
 # 번역
-##1.2 들어가며
+## 1.2 들어가며
 * 최초의 컴퓨터가 사람의 명령을 컴퓨터로 전달하기 위해 케이블과 스위치를 이동하던 시절 이래로, 우리가 프로그래밍을 생각하는 방식은 많은 변화를 겪어왔다.  
 위 사례 처럼 사회의 많은 부분에서 변화가 있었듯이, 컴퓨터 기술의 변화가 컴퓨터 과학자들에게 그들이 실험해 볼수 있는 많은 툴과 플랫폼을 제공해 주었다.  
 빨라진 프로세서, 높은 속도의 네트워크, 그리고 대용량 메모리와 같은 진보들은 컴퓨터 과학자들이 반드시 해쳐나갸야할 복잡성을 만들어냈다.  

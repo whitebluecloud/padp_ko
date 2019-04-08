@@ -1,5 +1,5 @@
 # 원문
-##1.3. What Is Computer Science?
+## 1.3. What Is Computer Science?
 * Computer science is often difficult to define. This is probably due to the unfortunate use of the word “computer” in the name. As you are perhaps aware, computer science is not simply the study of computers. Although computers play an important supporting role as a tool in the discipline, they are just that–tools.
 
 * Computer science is the study of problems, problem-solving, and the solutions that come out of the problem-solving process. Given a problem, a computer scientist’s goal is to develop an algorithm, a step-by-step list of instructions for solving any instance of the problem that might arise. Algorithms are finite processes that if followed will solve the problem. Algorithms are solutions.
@@ -27,7 +27,7 @@ math.sqrt(16)
 * This is an example of procedural abstraction. We do not necessarily know how the square root is being calculated, but we know what the function is called and how to use it. If we perform the import correctly, we can assume that the function will provide us with the correct results. We know that someone implemented a solution to the square root problem but we only need to know how to use it. This is sometimes referred to as a “black box” view of a process. We simply describe the interface: the name of the function, what is needed (the parameters), and what will be returned. The details are hidden inside (see Figure 1).
 
 # 번역
-##1.3. 컴퓨터 과학이란?
+## 1.3. 컴퓨터 과학이란?
 * 컴퓨터 과학은 종종 정의하기 어렵다. 이것은 아마 컴퓨터 과학 이란 이름에서 _"컴퓨터"_ 의 잘못된 사용때문 일 것이다.  
 당신도 아마 주의하고 있드시, 컴퓨터 과학은 단순히 컴퓨터에 대한 연구만 있는것이 아니다.  
 비록 컴퓨터가 이 과목에서 중요한 부분을 담당하고있지만, 이것은 단지 도구일 뿐이다.
