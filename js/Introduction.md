@@ -1,5 +1,5 @@
 # Problem Solving with Algorithms and Data Structures using Python
-- 1. 소개
+1. 소개
   - [Part1. 목표](#part1)
   - [Part2. 시작하기](#part2)
   - [Part3. 컴퓨터과학이란](#part3)
@@ -9,7 +9,7 @@
   - [Part7. 파이썬 기본](#part7)
   - [Part8. 데이터를 활용해 시작하기](#part8)
     - [1.8.1. 기본형 데이터 타입](#part8-1)
-    - [1.8.2. 컬렉션 데이터 타입]
+    - [1.8.2. 컬렉션 데이터 타입](#part8-2)
 
 ## Part1
 ### 목표
@@ -105,7 +105,7 @@ Boolean data objects are also used as results for comparison operators such as e
 ~~~
 Boolean 데이터 객체는 또한 ==, > 과 같은 비교 연산자들의 결과로써 사용된다.
 ~~~
-In addition, relational operators and logical operators can be combined together to form complex logical questions. Table 1 shows the relational and logical operators with examples shown in the session that follows.
+In addition, relational operators and logical operators can be combined together to form complex logical questions. [Table1](http://interactivepython.org/courselib/static/pythonds/Introduction/GettingStartedwithData.html#tab-relational) shows the relational and logical operators with examples shown in the session that follows.
 ~~~
 게다가, 관계 연산자와 논리 연산자는 복잡한 논리 질문을 만들 수 있도록 서로 결합할 수 있다.
 Table 1에서는 다음 세션에서 보여지는 예제들과 함께 관계 연산자와 논리 연사자를 보여준다
@@ -143,3 +143,76 @@ The assignment statement changes the reference being held by the variable. This 
 
 #### part8-2
 #### 1.8.2 Built-in Atomic Data Types (기본형 데이터 타입)
+
+In addition to the numeric and boolean classes, Python has a number of very powerful built-in collection classes. Lists, strings, and tuples are ordered collections that are very similar in general structure but have specific differences that must be understood for them to be used properly. Sets and dictionaries are unordered collections.
+~~~
+숫자, boolean 클래스 외에도 파이썬은 많은 매우 파워풀한 내장 컬랙션 클래스들을 가지고 있다.
+Lists, String, 튜플은 정돈된 수집들이다 (일반적인 구조에서는 매우 유사하지만 특정한 차이들을 가지고 있는)
+(적절히 사용되어지기 위해서 그것들을 반드시 이해해야만 하는) Set과 Dictionary는 정돈되지 않은 수집이다.
+~~~
+A list is an ordered collection of zero or more references to Python data objects. Lists are written as comma-delimited values enclosed in square brackets. The empty list is simply [ ].
+~~~
+List는 파이썬 데이터 객체들에 대한 0개 또는 그 이상의 참조의 정돈된 수집이다.
+List는 대괄호로 쌓여진 콤마로 구분된 값으로 쓰여진다.
+빈 List는 단순히 []이다.
+~~~
+Lists are heterogeneous, meaning that the data objects need not all be from the same class and the collection can be assigned to a variable as below. The following fragment shows a variety of Python data objects in a list.
+~~~
+List는 여러 다른 종류로 이뤄지고, 이것은 데이터 객체가 모두 같은 클래스일 필요가 없으며, 수집이 아래처럼 변수에 할당될 수 있음을 의미한다.
+다음 부분은 한 리스트에서 다양한 파이썬 데이터 객체를 보여준다.
+
+>>> [1,3,True,6.5]
+[1, 3, True, 6.5]
+>>> myList = [1,3,True,6.5]
+>>> myList
+[1, 3, True, 6.5]
+~~~
+Note that when Python evaluates a list, the list itself is returned. However, in order to remember the list for later processing, its reference needs to be assigned to a variable.
+~~~
+주목해라 파이썬이 list를 평가할 때, 그 list는 그자체로 리턴된다. 하지만, 나중에 처리하기위해 그 리스트를 기억하기 위해서, 그 자체의 참조가 변수에 할당되어질 필요가 있다.
+~~~
+Since lists are considered to be sequentially ordered, they support a number of operations that can be applied to any Python sequence. [Table2](http://interactivepython.org/courselib/static/pythonds/Introduction/GettingStartedwithData.html#tab-sequence) reviews these operations and the following session gives examples of their use.
+~~~
+list는 순차적으로 정돈되어지는 것으로 여겨지기때문에, list는 파이썬 순서에 적용될 수 있는 다양한 연산자를 지원한다.
+테이블2는 이러한 연산자들을 검토하고 다음 세션은 그것들의 사용의 예들을 준다.
+~~~
+Note that the indices for lists (sequences) start counting with 0. The slice operation, myList[1:3], returns a list of items starting with the item indexed by 1 up to but not including the item indexed by 3.
+~~~
+List에 대한 인덱스(시퀀스)는 0으로 시작한다는 것을 주의하라.
+slice 연산자, myList[1:3]은 1까지 인덱스된 항목으로 시작하는 항목의 list는 리턴하지만, 3에 의해 인덱스된 항목은 포함하지 않는다.
+~~~
+Sometimes, you will want to initialize a list. This can quickly be accomplished by using repetition. For example,
+~~~
+때때로, 너는 리스트를 초기화하기를 원할것이다.
+이것은 반복을 사용함으로써 빠르게 이뤄질 수 있다.
+
+>>> myList = [0] * 6
+>>> myList
+[0, 0, 0, 0, 0, 0]
+~~~
+One very important aside relating to the repetition operator is that the result is a repetition of references to the data objects in the sequence. This can best be seen by considering the following session:
+~~~
+반복 연산자와 관련된 한가지 가장 중요한 면은 그 결과는 그 순서 안의 데이터 객체에 대한 참조의 반복이다.
+이것은 다음 세션을 고려해봄으로써 가장 잘 알수있다.
+
+myList = [1,2,3,4]
+A = [myList]*3
+print(A)
+myList[2]=45
+print(A)
+
+-> 결과
+[[1, 2, 3, 4], [1, 2, 3, 4], [1, 2, 3, 4]]
+[[1, 2, 45, 4], [1, 2, 45, 4], [1, 2, 45, 4]]
+~~~
+The variable A holds a collection of three references to the original list called myList. Note that a change to one element of myList shows up in all three occurrences in A.
+~~~
+변수 A는 myList라 불리는 기존의 List에 대한 3개의 참조의 수집을 담고 있다.
+myList의 한 요소의 변경이 A 안의 3가지 모든 경우에 나타난다는 것을 유의해라
+~~~
+Lists support a number of methods that will be used to build data structures. [Table3](http://interactivepython.org/courselib/static/pythonds/Introduction/GettingStartedwithData.html#tab-listmethods) provides a summary. Examples of their use follow.
+~~~
+List는 데이터 구조를 만드는데 사용되어지는 많은 메소드를 지원한다.
+[테이블3]은 요약을 제공한다.
+이거들의 사용 예는 다음과 같다.
+~~~
