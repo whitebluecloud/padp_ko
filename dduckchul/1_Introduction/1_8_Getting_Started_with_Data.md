@@ -1,8 +1,8 @@
 # 원문
-##1.8. Getting Started with Data
+## 1.8. Getting Started with Data
 * We stated above that Python supports the object-oriented programming paradigm. This means that Python considers data to be the focal point of the problem-solving process. In Python, as well as in any other object-oriented programming language, we define a class to be a description of what the data look like (the state) and what the data can do (the behavior). Classes are analogous to abstract data types because a user of a class only sees the state and behavior of a data item. Data items are called objects in the object-oriented paradigm. An object is an instance of a class.
 
-###1.8.1. Built-in Atomic Data Types
+### 1.8.1. Built-in Atomic Data Types
 * We will begin our review by considering the atomic data types. Python has two main built-in numeric classes that implement the integer and floating point data types. These Python classes are called int and float. The standard arithmetic operations, +, -, *, /, and ** (exponentiation), can be used with parentheses forcing the order of operations away from normal operator precedence. Other very useful operations are the remainder (modulo) operator, %, and integer division, //. Note that when two integers are divided, the result is a floating point. The integer division operator returns the integer portion of the quotient by truncating any fractional part.
 
 ```python
@@ -425,7 +425,7 @@ dict_items([('brad', 1137), ('david', 1410)])
 | get         | adict.get(k)     | Returns the value associated with k, None otherwise          |
 | get         | adict.get(k,alt) | Returns the value associated with k, alt otherwise           |
 
-#번역
+# 번역
 ## 1.8. 데이터 시작하기
 * 우리는 앞서 파이썬이 객체지향 패러다임을 갖고있다고 배웠다.  
 이것은 파이썬이 데이터를 문제해결에 초점을 두고있다고 생각할수 있다.  
