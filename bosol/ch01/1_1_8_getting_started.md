@@ -208,19 +208,53 @@ print(A)
 - 우리는 이번 섹션 이후에 이러한 메소드들에 대해서 더 많이 얘기할것이다.
 
 * One common Python function that is often discussed in conjunction with lists is the range function. 
-* range produces a range object that represents a sequence of values. By using the list function, it is possible to see the value of the range object as a list. This is illustrated below.
-* The range object represents a sequence of integers. By default, it will start with 0. 
-* If you provide more parameters, it will start and end at particular points and can even skip items. 
+- list와 함께 조종 논의되는 일반적인 파이썬 함수 하나는 범위 함수다.
+* range produces a range object that represents a sequence of values. 
+- range는 값들의 순서를 표현하는 범위 객체를 생산하다.
+* By using the list function, it is possible to see the value of the range object as a list. 
+- list 함수 사용에 의해 이것은 범위함수의 값을 list로 보는것이 가능하다.
+* This is illustrated below.
+- 아래에 예시가 있다.
+* The range object represents a sequence of integers. 
+- 범위 객체는 숫자의 순서를 표현한다. 
+* By default, it will start with 0.
+- 기본적으로, 이것은 0으로 시작한다.
+* If you provide more parameters, it will start and end at particular points and can even skip items.
+-  만약 더 많은 파라미터를 제공한다면, 이것은  특이점에서 시작과 끝을 할 수 있고 items를 건너뛸 수 있다.
 * In our first example, range(10), the sequence starts with 0 and goes up to but does not include 10. 
-* In our second example, range(5,10) starts at 5 and goes up to but not including 10. range(5,10,2) performs similarly but skips by twos (again, 10 is not included).
-
-* Strings are sequential collections of zero or more letters, numbers and other symbols. 
+- 첫번째 예시로, range(10) 시작 순서는 0부터 10을 포함하지 않는 곳까지 간다.
+* In our second example, range(5,10) starts at 5 and goes up to but not including 10.
+- 두번째 예시로, range(5,10) 는 5부터 시작하여 10을 포함하지 않는 곳까지 간다.
+* range(5,10,2) performs similarly but skips by twos (again, 10 is not included).
+- range(5,10,2) 는 비슷하게 수행하지만 2개를 건너뛴다.
+* Strings are sequential collections of zero or more letters, numbers and other symbols.
+- Strings는 잇달아 일어나는 0이거나 문자, 숫자, 기타등등 컬렉션이다.  
 * We call these letters, numbers and other symbols characters. 
+- 우리는 이 문자, 숫자 기타등등 문자들을 호출한다.
 * Literal string values are differentiated from identifiers by using quotation marks (either single or double).
-Since strings are sequences, all of the sequence operations described above work as you would expect. 
+- Literal string 값들은 따옴표 사용하여 식별자와 구분된다.
+* Since strings are sequences, all of the sequence operations described above work as you would expect.
+-  strings는 순서화되기 때문에, 위에 기술된 순서화된 모든 연산들은 예상대로 동작한다.
 * In addition, strings have a number of methods, some of which are shown in Table 4. For example,
-* Of these, split will be very useful for processing data. split will take a string and return a list of strings using the split character as a division point. 
+- 게다가, strings많은 메소드들을 갖고 있고, 이루는 테이블4와 같이 보여진다.
+```buildoutcfg
+>>> myName
+'David'
+>>> myName.upper()
+'DAVID'
+>>> myName.center(10)
+'  David   '
+>>> myName.find('v')
+2
+>>> myName.split('v')
+['Da', 'id']
+```
+* Of these, split will be very useful for processing data. 
+- 이것들 중 split은 데이터 프로세싱하기에 매우 유용하다.  
+* split will take a string and return a list of strings using the split character as a division point.
+- split은 string과 분리포인트로 스플릿문자를 사용하여 strings 리스트 결과를 가져올 수 있다.
 * In the example, v is the division point. If no division is specified, the split method looks for whitespace characters such as tab, newline and space.
+- 예시로 v는 분할점이다. 만약 분할이 지정되지 않는다면, split 메소드는 탭, 개행 공백과 같은 공백 캐릭터를 찾다.
 
 | Method Name  | <center>Operator</center> | <center>Explanation</center> |
 |:--------:|:--------:|:--------:|
@@ -232,15 +266,24 @@ Since strings are sequences, all of the sequence operations described above work
 | find	| astring.find(item) |	Returns the index of the first occurrence of item |
 | split |	astring.split(schar) |	Splits a string into substrings at schar |
 
-* A major difference between lists and strings is that lists can be modified while strings cannot. 
+* A major difference between lists and strings is that lists can be modified while strings cannot.
+-  list와 strings의 주된 차이점은 list는 수정할 수있고 strings는 할수 없다는 것 이다.
 * This is referred to as mutability. Lists are mutable; strings are immutable. 
+- 이것은 가변성에 대한 것 이다. list는 가변적, Strings는 불변이다.
 * For example, you can change an item in a list by using indexing and assignment. 
+- 예를들어 당신은  할당과 인덱싱을 사용하여 list안에 한 item을 바꿀 수 있다.
 * With a string that change is not allowed.
+- string 변경은 허용되지 않는다.
 * Tuples are very similar to lists in that they are heterogeneous sequences of data. 
+- 튜플은 이기종의 데이터 순서와 list는 매우 비슷하다.
 * The difference is that a tuple is immutable, like a string. 
+- 차이점은 string과 같이 튜플은 불변이라는 것이다.
 * A tuple cannot be changed. 
-* Tuples are written as comma-delimited values enclosed in parentheses. 
+- 튜플은 바꿀 수 없다.
+* Tuples are written as comma-delimited values enclosed in parentheses.
+- 튜플은 괄호안에 쉼표로 구분된 값들로 쓰여진다. 
 * As sequences, they can use any operation described above. 
+- 시퀀스로서, 그것들은 위에 기술된 어떤 연산을 사용 할 수 있다.
 * For example, 
 ```buildoutcfg
 >>> myTuple = (2,True,4.96)
@@ -257,12 +300,36 @@ Since strings are sequences, all of the sequence operations described above work
 >>>
 ```
 * However, if you try to change an item in a tuple, you will get an error. 
+- 그러나, 만약 당신이 튜플안의 item을 변경을 시도한다면, 당신은 error를 확인 할 수있다.
 * Note that the error message provides location and reason for the problem.
-* A set is an unordered collection of zero or more immutable Python data objects. 
-* Sets do not allow duplicates and are written as comma-delimited values enclosed in curly braces. 
+- error 메시지는 문제에 대한 위치와 이유 제공한다.
+```buildoutcfg
+>>> myTuple[1]=False
+
+Traceback (most recent call last):
+  File "<pyshell#137>", line 1, in -toplevel-
+    myTuple[1]=False
+TypeError: object doesn't support item assignment
+>>>
+```
+* A set is an unordered collection of zero or more immutable Python data objects.
+- set는 0과 불변의 파이썬 데이터 객체의 순서가매겨지지않은 컬렉션 이다.
+* Sets do not allow duplicates and are written as comma-delimited values enclosed in curly braces.
+- set는 중복허용이 안되고 중괄호 안에 콤마로 구분된 값들로 쓰여진다.
 * The empty set is represented by set(). Sets are heterogeneous, and the collection can be assigned to a variable as below.
+- 공백 set는 set()로 표현된다. set는 이기종이고, 콜렉션에 아래와 같이 변수에 할당된다.
+```buildoutcfg
+>>> {3,6,"cat",4.5,False}
+{False, 4.5, 3, 6, 'cat'}
+>>> mySet = {3,6,"cat",4.5,False}
+>>> mySet
+{False, 4.5, 3, 6, 'cat'}
+>>>
+```
 * Even though sets are not considered to be sequential, they do support a few of the familiar operations presented earlier. 
+- 심지어 set는 순서가 고려되지 않는다, 그것들은 이전에 표현된 익숙한 연산의 일부를 지원한다.
 * Table 5 reviews these operations and the following session gives examples of their use.
+- 테이블5는 연산들을 보여주고 다음 세션은 예시와 그들의 사용법을 준다.
 
 | Operation Name  | <center>Operator</center> | <center>Explanation</center> |
 |:--------:|:--------:|:--------:|
@@ -286,7 +353,9 @@ False
 ```
 
 * Sets support a number of methods that should be familiar to those who have worked with them in a mathematics setting. Table 6 provides a summary. 
+- set는 수학적 셋팅에서 그들과 함께 일한 사람들에게 익숙하 많은 메소드들을 지원한다. 테이블6는 서머리를 제공한다.
 * Examples of their use follow. Note that union, intersection, issubset, and difference all have operators that can be used as well.
+- 그 사용예시는 아래와 같다. union, intersection, issubset, difference 모두 연산자를 사용할 수 있다.
 
 | Method Name  | <center>Operator</center> | <center>Explanation</center> |
 |:--------:|:--------:|:--------:|
@@ -336,9 +405,14 @@ set()
 ```
 
 * Our final Python collection is an unordered structure called a dictionary. 
-* Dictionaries are collections of associated pairs of items where each pair consists of a key and a value. 
+- 마지막으로 파이썬 컬렉션은 순서화되지 않는 구조 사전이이라고 불려진다. 
+* Dictionaries are collections of associated pairs of items where each pair consists of a key and a value.
+- 사전들은 연결된 item 쌍의 컬레션이고 키와 값 구성된다.
 * This key-value pair is typically written as key:value. 
+- 이 키값 쌍은 전형적으로 key:value로 쓰여진다.
 * Dictionaries are written as comma-delimited key:value pairs enclosed in curly braces. For example,
+- 사전들은 중괄호 안에 쉼표구분자로 key:value 쌍으로 쓰여진다. 예시로ㅡ
+ 
 ```buildoutcfg
 >>> capitals = {'Iowa':'DesMoines','Wisconsin':'Madison'}
 >>> capitals
@@ -347,19 +421,33 @@ set()
 ```
 
 * We can manipulate a dictionary by accessing a value via its key or by adding another key-value pair. 
-* The syntax for access looks much like a sequence access except that instead of using the index of the item we use the key value. 
+- 우리는 키를 통해 값에 접근하거나 다른 키값 쌍을 추가하여 사전을 다룰 수 있다.
+* The syntax for access looks much like a sequence access except that instead of using the index of the item we use the key value.
+- 이 접근 구문은 item 이 키 값을 사용하고 인덱스를 사용을 대신한다는것 외에 순차접과 비슷하다. (이해가 잘 안되는 부분????)
 * To add a new value is similar.
-*It is important to note that the dictionary is maintained in no particular order with respect to the keys. 
-* The first pair added ('Utah': 'SaltLakeCity') was placed first in the dictionary and the second pair added ('California': 'Sacramento') was placed last. 
+- 추가적으로 새로은 값은 비슷하다.
+* It is important to note that the dictionary is maintained in no particular order with respect to the keys.
+- 사전이 키와 관련하여 특별한 순서 없이 유지된다는 점을 주의해야 한다.
+* The first pair added ('Utah': 'SaltLakeCity') was placed first in the dictionary and the second pair added ('California': 'Sacramento') was placed last.
+- 추가된 첫번째 쌍 ('Utah': 'SaltLakeCity')은 첫번째로 사전안에 위치 되었고  추가된 두번째 쌍 ('California': 'Sacramento')은 마지막에 위치되었다.
 * The placement of a key is dependent on the idea of “hashing,” which will be explained in more detail in Chapter 4. 
+- 키의 위치는 "hashing" 아이디에 의해 독립된고 자세한 내용은 챕터4에서 설명한다.
 * We also show the length function performing the same role as with previous collections.
-
+- 우리는 또한 length 함수 이전의 콜렉션들과 같은 규칙으로 수행하는것을 볼수있다.
 * Dictionaries have both methods and operators. 
-* Table 7 and Table 8 describe them, and the session shows them in action. 
-* The keys, values, and items methods all return objects that contain the values of interest. 
-* You can use the list function to convert them to lists. You will also see that there are two variations on the get method. 
+- 사전은 메소드와 연산을 갖고 있다.
+* Table 7 and Table 8 describe them, and the session shows them in action.
+- 테이블7,8은 그것들을 성명하고 섹셕은 그들의 행동을 보여준다.
+* The keys, values, and items methods all return objects that contain the values of interest.
+- 키, 값들, 그리고 item 메소드들 모두 관심갖는 값들을 포함한 객체를 반환한다.
+* You can use the list function to convert them to lists.
+- 당신은 그것들을 list로 변환하는 list함수를 사용할 수있다.
+* You will also see that there are two variations on the get method.
+- 당신은 또한 get 메소드에 2개의 변형을 볼 수있다. 
 * If the key is not present in the dictionary, get will return None. 
+- 만약 키가 사전에 표현되지 않는다면, 리턴은 아무것도 없다.
 * However, a second, optional parameter can specify a return value instead.
+- 그러나 두번째 선택가능한 파라미터는 관심있는 값 리턴을 지정 할 수 있다.
 
 | Operator  | <center>Use</center> | <center>Explanation</center> |
 |:--------:|:--------:|:--------:|
