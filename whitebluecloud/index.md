@@ -13,10 +13,9 @@ Problem Solving with Algorithms and Data Structures using Python
     * 1.7. [파이썬 기본](basic_python.ipynb)
     * 1.8. [데이터를 활용해 시작하기](start_with_data.ipynb)
         * 1.8.1. [기본형 데이터 타입](atomic_data_type.ipynb)
-        * 1.8.2. [컬렉션 데이터 타입](collection_data_type.ipynb
-        )
-    * 1.9. 입력과 출력
-        * 1.9.1. 문자열 포매팅
+        * 1.8.2. [컬렉션 데이터 타입](collection_data_type.ipynb)
+    * 1.9. [입력과 출력](1.9_input_and_output.ipynb)
+        * 1.9.1. [문자열 포매팅](1.9.1_string_formatting.ipynb)
     * 1.10. Control Structures
     * 1.11. 예외 처리
     * 1.12. 함수 정의
