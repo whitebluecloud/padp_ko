@@ -17,8 +17,8 @@ http://interactivepython.org/courselib/static/pythonds/index.html
   * 1.11. [Exception Handling](http://interactivepython.org/courselib/static/pythonds/Introduction/ExceptionHandling.html)
   
 ### - 과제 완료 현황  
-|  | <center>김훈</center> | <center>전보솔</center> | <center>김성철</center> | <center>정종선</center> | <center>조원현</center> |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:
-|**1주차** | O | O | O | O | O |
-|**2주차** | | | | | |
-|**3주차** | | | | | |
+|  | <center>김훈</center> | <center>전보솔</center> | <center>김성철</center> | <center>정종선</center> | <center>조원현</center> | <center>이혜린</center>
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:
+|**1주차** | O | O | O | O | O | -
+|**2주차** | | | | | | |
+|**3주차** | | | | | | |
