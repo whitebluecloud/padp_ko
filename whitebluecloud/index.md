@@ -16,8 +16,8 @@ Problem Solving with Algorithms and Data Structures using Python
         * 1.8.2. [컬렉션 데이터 타입](collection_data_type.ipynb)
     * 1.9. [입력과 출력](1.9_input_and_output.ipynb)
         * 1.9.1. [문자열 포매팅](1.9.1_string_formatting.ipynb)
-    * 1.10. Control Structures
-    * 1.11. 예외 처리
+    * 1.10. [제어흐름](1.10_control_structure.ipynb)
+    * 1.11. [예외 처리](1.11_exception_handling.ipynb)
     * 1.12. 함수 정의
     * 1.13. 파이썬을 활용한 객체지향 프로그래밍 : 클래스 정의
         * 1.13.1. A Fraction Class
