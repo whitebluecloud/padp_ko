@@ -27,8 +27,8 @@ http://interactivepython.org/courselib/static/pythonds/index.html
 *  | [7kyu_Sum of the first nth term of Series](https://www.codewars.com/kata/sum-of-the-first-nth-term-of-series/train/python)
   
 ### - 과제 완료 현황  
-|  | <center>김훈</center> | <center>전보솔</center> | <center>김성철</center> | <center>정종선</center> | <center>조원현</center> | <center>이혜린</center> | <center>이세강</center> | <center>김태훈</center> | <center>김유진</center> |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-|**1주차** | O | O | O | O | O | - | - | - | - | - |
-|**2주차** | O | O | O | O | O | - | - | - | - | - |
-|**3주차** | | | | | | | | | |
+|  | <center>승걸</center> | <center>훈</center> | <center>보솔</center> | <center>성철</center> | <center>종선</center> | <center>원현</center> | <center>혜린</center> | <center>세강</center> | <center>태훈</center> | <center>유진</center> |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|**1주차** | - | O | O | O | O | O | - | - | - | - | - |
+|**2주차** | - |O | O | O | O | O | - | - | - | - | - |
+|**3주차** | | | | | | | | | | |
