@@ -21,7 +21,7 @@ Problem Solving with Algorithms and Data Structures using Python
     * 1.12. [함수 정의](1.12_defining_functions.ipynb)
     * 1.13. [파이썬을 활용한 객체지향 프로그래밍 : 클래스 정의](1.13_oop_in_python.ipynb)
         * 1.13.1. [A Fraction Class](1.13.1_a_fraction_class.ipynb)
-        * 1.13.2. [상속: 논리 게이트와 순환](1.13.2_inheritance.ipynb)
+        * 1.13.2. [상속: 논리 게이트와 회로](1.13.2_inheritance.ipynb)
     * 1.14. Summary
     * 1.15. Key Terms
     * 1.16. Discussion Questions
