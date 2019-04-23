@@ -33,7 +33,7 @@ http://interactivepython.org/courselib/static/pythonds/index.html
 
 ### - 문제풀이 ([코드워즈](https://www.codewars.com)) - 회원가입시 clan에 SSG로 가입. 또는 account setting에서 clan명 SSG로 
 *  | [7kyu_Sum of the first nth term of Series](https://www.codewars.com/kata/sum-of-the-first-nth-term-of-series/train/python)
-*  | [5kyu_pagination_helper](https://www.codewars.com/kata/515bb423de843ea99400000a)
+*  | [5kyu_Vector class](https://www.codewars.com/kata/526dad7f8c0eb5c4640000a4)
 
 ### - 과제 완료 현황  
 |  | <center>승걸</center> | <center>훈</center> | <center>보솔</center> | <center>성철</center> | <center>종선</center> | <center>원현</center> | <center>혜린</center> | <center>세강</center> | <center>태훈</center> | <center>유진</center> |
