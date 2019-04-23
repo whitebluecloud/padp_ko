@@ -18,10 +18,10 @@ Problem Solving with Algorithms and Data Structures using Python
         * 1.9.1. [문자열 포매팅](1.9.1_string_formatting.ipynb)
     * 1.10. [제어흐름](1.10_control_structure.ipynb)
     * 1.11. [예외 처리](1.11_exception_handling.ipynb)
-    * 1.12. 함수 정의
-    * 1.13. 파이썬을 활용한 객체지향 프로그래밍 : 클래스 정의
-        * 1.13.1. A Fraction Class
-        * 1.13.2. Inheritance: Logic Gates and Circuits
+    * 1.12. [함수 정의](1.12_defining_functions.ipynb)
+    * 1.13. [파이썬을 활용한 객체지향 프로그래밍 : 클래스 정의](1.13_oop_in_python.ipynb)
+        * 1.13.1. [A Fraction Class](1.13.1_a_fraction_class.ipynb)
+        * 1.13.2. [상속: 논리 게이트와 회로](1.13.2_inheritance.ipynb)
     * 1.14. Summary
     * 1.15. Key Terms
     * 1.16. Discussion Questions
