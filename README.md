@@ -15,10 +15,20 @@ http://interactivepython.org/courselib/static/pythonds/index.html
     * 1.9.1. [String Formatting](http://interactivepython.org/courselib/static/pythonds/Introduction/InputandOutput.html#string-formatting)
   * 1.10. [Control Structures](http://interactivepython.org/courselib/static/pythonds/Introduction/ControlStructures.html)
   * 1.11. [Exception Handling](http://interactivepython.org/courselib/static/pythonds/Introduction/ExceptionHandling.html)
+
+### - 3주차 과제 (4/22 ~ 4/26)
+* Ⅰ. Introduction  
+  * 1.12. [Defining Function](http://interactivepython.org/courselib/static/pythonds/Introduction/DefiningFunctions.html)
+  * 1.13. [Object-Oriented Programming in Python: Defining Classes](http://interactivepython.org/courselib/static/pythonds/Introduction/ObjectOrientedProgramminginPythonDefiningClasses.html)
+    * 1.13.1 [A Fraction Class](http://interactivepython.org/courselib/static/pythonds/Introduction/ObjectOrientedProgramminginPythonDefiningClasses.html#a-fraction-class)
+    * 1.13.2 [Inheritance: Logic Gates and Circuits](http://interactivepython.org/courselib/static/pythonds/Introduction/ObjectOrientedProgramminginPythonDefiningClasses.html#inheritance-logic-gates-and-circuits)
+
+### - 문제풀이 ([코드워즈](https://www.codewars.com)) - 회원가입시 clan에 SSG로 가입. 또는 account setting에서 clan명 SSG로 
+*  | [7kyu_Sum of the first nth term of Series](https://www.codewars.com/kata/sum-of-the-first-nth-term-of-series/train/python)
   
 ### - 과제 완료 현황  
-|  | <center>김훈</center> | <center>전보솔</center> | <center>김성철</center> | <center>정종선</center> | <center>조원현</center> | <center>이혜린</center> | <center>이세강</center>
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:
-|**1주차** | O | O | O | O | O | - | -
-|**2주차** | | | | | | | |
-|**3주차** | | | | | | | |
+|  | <center>승걸</center> | <center>훈</center> | <center>보솔</center> | <center>성철</center> | <center>종선</center> | <center>원현</center> | <center>혜린</center> | <center>세강</center> | <center>태훈</center> | <center>유진</center> |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|**1주차** | - | O | O | O | O | O | - | - | - | - | - |
+|**2주차** | - |O | O | O | O | O | - | - | - | - | - |
+|**3주차** | | | | | | | | | | |
