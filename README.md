@@ -31,9 +31,16 @@ http://interactivepython.org/courselib/static/pythonds/index.html
   * 1.17. [Programming Exercises](http://interactivepython.org/courselib/static/pythonds/Introduction/ProgrammingExercises.html)
     * 1-8번   
 
+### - 5주차 과제 (5/6 ~ 5/10)
+* Ⅰ. Introduction  
+  * 1.17. [Programming Exercises](http://interactivepython.org/courselib/static/pythonds/Introduction/ProgrammingExercises.html)
+    * 9-15번   
+  * 2.1 ~ 2.4.4 selfCheck만 풀어오기(해석X)
+    
 ### - 문제풀이 ([코드워즈](https://www.codewars.com)) - 회원가입시 clan에 SSG로 가입. 또는 account setting에서 clan명 SSG로 
 *  | [7kyu_Sum of the first nth term of Series](https://www.codewars.com/kata/sum-of-the-first-nth-term-of-series/train/python)
 *  | [5kyu_Vector class](https://www.codewars.com/kata/526dad7f8c0eb5c4640000a4)
+*  | [5kyu_Maximum_subarray_sum](https://www.codewars.com/kata/maximum-subarray-sum/train/python)
 
 ### - 과제 완료 현황  
 |  | <center>승걸</center> | <center>훈</center> | <center>보솔</center> | <center>성철</center> | <center>종선</center> | <center>원현</center> | <center>혜린</center> | <center>세강</center> | <center>태훈</center> | <center>유진</center> |
@@ -41,3 +48,4 @@ http://interactivepython.org/courselib/static/pythonds/index.html
 |**1주차** | - | O | O | O | O | O | - | - | - | - | - |
 |**2주차** | - | O | O | O | O | O | - | - | - | - | - |
 |**3주차** | - | O | O | - | O | O | O | O | O | O | O |
+|**4주차** | - | O | - | O | O | - | O | O | O | O | O |
