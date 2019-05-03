@@ -1,6 +1,7 @@
 # 용산 CGV 크롤러
 
 * 파이썬 라이브러리를 이용한 웹 크롤링 + 메신저 전송 서비스
+* https://t.me/joinchat/AAAAAFjQUAGLZJhvsSHQbA - 실제 운영중인 그룹 
 
 ## 1. 준비물
 - 파이썬 3.? 버전
