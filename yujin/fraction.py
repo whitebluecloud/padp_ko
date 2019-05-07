@@ -99,8 +99,12 @@ class Fraction:
         return self.__add__(other)
 
     # Exercise 8
-    def __iadd__(self, other):  # 
+    def __iadd__(self, other):
         return self.__add__(other)
+
+    # Exercise 9
+    def __repr__(self, other):  # __repr__ : “official” string representation of an object
+        return self.__str__()   # __str__ : “informal” string representation of an object
 
     # Exercise 1
     def getNum(self):
