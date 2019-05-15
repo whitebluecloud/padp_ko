@@ -41,11 +41,20 @@ http://interactivepython.org/courselib/static/pythonds/index.html
 * Ⅰ. Introduction  
   * 2.5 ~ 3.5 읽어오기
   
+### - 7주차 과제 (5/20 ~ 5/24)  
+  * 3.6 ~ 3.18 읽어오기  
+  
 ### - 문제풀이 ([코드워즈](https://www.codewars.com)) - 회원가입시 clan에 SSG로 가입. 또는 account setting에서 clan명 SSG로 
 *  | [7kyu_Sum of the first nth term of Series](https://www.codewars.com/kata/sum-of-the-first-nth-term-of-series/train/python)
 *  | [5kyu_Vector class](https://www.codewars.com/kata/526dad7f8c0eb5c4640000a4)
 *  | [5kyu_Maximum_subarray_sum](https://www.codewars.com/kata/maximum-subarray-sum/train/python)
 *  | [5kyu_Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)
+
+*  7주차
+    * [codewars_5kyu_Identifying Top Users and their Corresponding Purchases On a Website](https://www.codewars.com/kata/5838b5eb1adeb6b7220000f5)
+    * [codility_stack_brackets](https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/)
+ 
+
 
 ### - 과제 완료 현황  
 |  | <center>승걸</center> | <center>훈</center> | <center>보솔</center> | <center>성철</center> | <center>종선</center> | <center>원현</center> | <center>혜린</center> | <center>세강</center> | <center>태훈</center> | <center>유진</center> |
