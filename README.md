@@ -54,7 +54,9 @@ http://interactivepython.org/courselib/static/pythonds/index.html
     * [codewars_5kyu_Identifying Top Users and their Corresponding Purchases On a Website](https://www.codewars.com/kata/5838b5eb1adeb6b7220000f5)
     * [codility_stack_brackets](https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/)
  
-
+*  8주차
+    * [codility_stack_queue_fish](https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/)
+    * [codility_stack_queue_stone_wall](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/)
 
 ### - 과제 완료 현황  
 |  | <center>승걸</center> | <center>훈</center> | <center>보솔</center> | <center>성철</center> | <center>종선</center> | <center>원현</center> | <center>혜린</center> | <center>세강</center> | <center>태훈</center> | <center>유진</center> |
@@ -65,3 +67,4 @@ http://interactivepython.org/courselib/static/pythonds/index.html
 |**4주차** | - | O | - | O | O | - | O | O | O | O |
 |**5주차** | - | O | - | O | O | - | - | O | O | O |
 |**6주차** | - | O | - | O | O | O | - | O | - | O |
+|**7주차** | - | O | - | O | O | - | O | O | O | - |
