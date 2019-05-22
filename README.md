@@ -1,4 +1,4 @@
-## 파이썬 영어 문서 "번역" 스터디(매주 화요일 12시 20분)
+## 파이썬 스터디(매주 화요일 12시 20분)
 
 Document for translate Problem Solving with Algorithms and Data Structures using Python to korean
 http://interactivepython.org/courselib/static/pythonds/index.html
