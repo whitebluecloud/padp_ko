@@ -60,7 +60,9 @@ http://interactivepython.org/courselib/static/pythonds/index.html
 *  8주차
     * [codility_stack_queue_fish](https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/)
     * [codility_stack_queue_stone_wall](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/)
-
+    
+*  9주차
+    * [codility_frog_jump](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/)
 ### - 과제 완료 현황  
 |  | <center>승걸</center> | <center>훈</center> | <center>보솔</center> | <center>성철</center> | <center>종선</center> | <center>원현</center> | <center>혜린</center> | <center>세강</center> | <center>태훈</center> | <center>유진</center> |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
