@@ -71,3 +71,4 @@ http://interactivepython.org/courselib/static/pythonds/index.html
 |**5주차** | - | O | - | O | O | - | - | O | O | O |
 |**6주차** | - | O | - | O | O | O | - | O | - | O |
 |**7주차** | - | O | - | O | O | - | O | O | O | - |
+|**8주차** | - | O | - | O | O | - | O | O | O | O |
