@@ -63,6 +63,8 @@ http://interactivepython.org/courselib/static/pythonds/index.html
     
 *  9주차
     * [codility_frog_jump](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/)
+    * [codewars_count_ip_address](https://www.codewars.com/kata/526989a41034285187000de4/train/java)
+    
 ### - 과제 완료 현황  
 |  | <center>승걸</center> | <center>훈</center> | <center>보솔</center> | <center>성철</center> | <center>종선</center> | <center>원현</center> | <center>혜린</center> | <center>세강</center> | <center>태훈</center> | <center>유진</center> |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
