@@ -1,4 +1,4 @@
-from . import FrogJump
+from . import FrogJump_cloud
 import unittest
 
 class FrogJumpTest(unittest.TestCase):
