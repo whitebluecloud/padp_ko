@@ -46,6 +46,12 @@ http://interactivepython.org/courselib/static/pythonds/index.html
   
 ### - 8주차 과제 (5/27 ~ 5/31)
   * 3.19 ~ 3.27 읽어오기
+
+### - 9주차 과제 (6/3 ~ 6/7)
+  * pass
+  
+### - 10주차 과제 (6/10 ~ 6/14)
+  * ~4.12 
   
 ### - 문제풀이 ([코드워즈](https://www.codewars.com)) - 회원가입시 clan에 SSG로 가입. 또는 account setting에서 clan명 SSG로 
 *  | [7kyu_Sum of the first nth term of Series](https://www.codewars.com/kata/sum-of-the-first-nth-term-of-series/train/python)
