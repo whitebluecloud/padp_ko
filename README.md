@@ -46,6 +46,12 @@ http://interactivepython.org/courselib/static/pythonds/index.html
   
 ### - 8주차 과제 (5/27 ~ 5/31)
   * 3.19 ~ 3.27 읽어오기
+
+### - 9주차 과제 (6/3 ~ 6/7)
+  * pass
+  
+### - 10주차 과제 (6/10 ~ 6/14)
+  * ~4.12 
   
 ### - 문제풀이 ([코드워즈](https://www.codewars.com)) - 회원가입시 clan에 SSG로 가입. 또는 account setting에서 clan명 SSG로 
 *  | [7kyu_Sum of the first nth term of Series](https://www.codewars.com/kata/sum-of-the-first-nth-term-of-series/train/python)
@@ -60,7 +66,11 @@ http://interactivepython.org/courselib/static/pythonds/index.html
 *  8주차
     * [codility_stack_queue_fish](https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/)
     * [codility_stack_queue_stone_wall](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/)
-
+    
+*  9주차
+    * [codility_frog_jump](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/)
+    * [codewars_count_ip_address](https://www.codewars.com/kata/526989a41034285187000de4/train/java)
+    
 ### - 과제 완료 현황  
 |  | <center>승걸</center> | <center>훈</center> | <center>보솔</center> | <center>성철</center> | <center>종선</center> | <center>원현</center> | <center>혜린</center> | <center>세강</center> | <center>태훈</center> | <center>유진</center> |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
@@ -71,3 +81,6 @@ http://interactivepython.org/courselib/static/pythonds/index.html
 |**5주차** | - | O | - | O | O | - | - | O | O | O |
 |**6주차** | - | O | - | O | O | O | - | O | - | O |
 |**7주차** | - | O | - | O | O | - | O | O | O | - |
+|**8주차** | - | O | - | O | O | - | O | O | O | O |
+|**9주차** | - | - | - | - | - | - | - | - | - | - |
+|**10주차** | - | - | - | - | - | - | - | - | - | - |
