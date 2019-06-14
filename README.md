@@ -53,6 +53,9 @@ http://interactivepython.org/courselib/static/pythonds/index.html
 ### - 10주차 과제 (6/10 ~ 6/14)
   * ~4.12 
   
+### - 11주차 과제 (6/17 ~ 6/21)
+  * ~4장
+  
 ### - 문제풀이 ([코드워즈](https://www.codewars.com)) - 회원가입시 clan에 SSG로 가입. 또는 account setting에서 clan명 SSG로 
 *  | [7kyu_Sum of the first nth term of Series](https://www.codewars.com/kata/sum-of-the-first-nth-term-of-series/train/python)
 *  | [5kyu_Vector class](https://www.codewars.com/kata/526dad7f8c0eb5c4640000a4)
@@ -73,6 +76,7 @@ http://interactivepython.org/courselib/static/pythonds/index.html
     
 *  10주차    
     * [codewars_langtons_ant](https://www.codewars.com/kata/langtons-ant/train/python)
+    * [codility_fib_frog](https://app.codility.com/programmers/lessons/13-fibonacci_numbers/fib_frog/)
     
 ### - 과제 완료 현황  
 |  | <center>승걸</center> | <center>훈</center> | <center>보솔</center> | <center>성철</center> | <center>종선</center> | <center>원현</center> | <center>혜린</center> | <center>세강</center> | <center>태훈</center> | <center>유진</center> |
@@ -86,4 +90,4 @@ http://interactivepython.org/courselib/static/pythonds/index.html
 |**7주차** | - | O | - | O | O | - | O | O | O | - |
 |**8주차** | - | O | - | O | O | - | O | O | O | O |
 |**9주차** | - | - | - | - | - | - | - | - | - | - |
-|**10주차** | - | - | - | - | - | - | - | - | - | - |
+|**10주차** | O | O | - | O | O | - | O | O | O | O |
